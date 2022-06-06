@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Общий вес боксеров составляет " + sum + "кг");
         System.out.println("Разница в весе боксеров составляет " + difference + "кг");
         System.out.println();
+        System.out.println();
 
         // задание 3
         int numberOfBananas = 5;
@@ -32,6 +33,7 @@ public class Main {
         var breakfastKg = breakfastMg / 1000;
         System.out.println("Масса завтрака составит " + breakfastKg + "кг");
         System.out.println();
+        System.out.println();
 
         /// задание 4
         int weightKg = 7;
@@ -45,6 +47,7 @@ public class Main {
         System.out.println("Минимальное количество дней для похудения составит " + minNumberOfDays);
         System.out.println("Максимальное количество дней для похудения составит " + maxNumberOfDays);
         System.out.println("Среднее количество дней для похудения составит " + averageNumberOfDays);
+        System.out.println();
         System.out.println();
 
         // задание №5
